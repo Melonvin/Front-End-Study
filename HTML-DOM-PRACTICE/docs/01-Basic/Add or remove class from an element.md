@@ -8,16 +8,16 @@
 
 ```html
 <div
-     id="box"
-     style="height: 100px; width: 100px; border: 1px solid black;"
- ></div>
+  id="box"
+  style="height: 100px; width: 100px; border: 1px solid black;"
+></div>
 ```
 
 类
 
 ```css
 .bg-pink {
-    background: pink;
+  background: pink;
 }
 ```
 
@@ -39,5 +39,4 @@ element.classList.remove("bg-pink");
 
 [codesandbox](https://codesandbox.io/s/dazzling-frost-9zfjm?file=/001.html)
 
-[github](./Add or remove class from an element.html)
-
+[github](https://github.com/Melonvin/HTML-DOM-PRACTICE/blob/master/01-Basic/Add%20or%20remove%20class%20from%20an%20element.html)
