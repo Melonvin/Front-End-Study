@@ -37,6 +37,6 @@ element.classList.remove("bg-pink");
 
 ## 代码
 
-[codesandbox](https://codesandbox.io/s/dazzling-frost-9zfjm?file=/001.html)
+[codesandbox](https://codesandbox.io/s/dazzling-frost-9zfjm?file=/index.html)
 
-[github](https://github.com/Melonvin/HTML-DOM-PRACTICE/blob/master/01-Basic/Add%20or%20remove%20class%20from%20an%20element.html)
+[github](https://github.com/Melonvin/HTML-DOM-PRACTICE)
