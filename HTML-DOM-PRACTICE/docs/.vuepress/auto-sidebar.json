@@ -1,1 +1,16 @@
-[{"title":"01-Basic","path":"/01-Basic/Add or remove class from an element","children":[{"title":"Add or remove class from an element","path":"/01-Basic/Add or remove class from an element"}]}]
+[
+  {
+    "title": "01-Basic",
+    "path": "/01-Basic/Add or remove class from an element",
+    "children": [
+      {
+        "title": "Add or remove class from an element",
+        "path": "/01-Basic/Add or remove class from an element"
+      },
+      {
+        "title": "Append to an element",
+        "path": "/01-Basic/Append to an element"
+      }
+    ]
+  }
+]
